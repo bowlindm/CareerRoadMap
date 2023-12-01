@@ -44,8 +44,8 @@ Focus on people, projects, programs and products that drive high tech innovation
 
 ## Training and Learning Goals:
 
-<ul><li>Complete PMP Required Training for recertification 
-<li>MBA 
+<ul><li>PMP Required Training for recertification (Completed Nov 23)
+<li>MBA (Completed Mar 23)
 <li>Read 10 business/tech related books this year
 <li>Read 50 other types of books 
 <li>Volunteer for at least 2 events this year
