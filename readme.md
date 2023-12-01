@@ -1,8 +1,7 @@
 # Goals 2023/24
 
 # Mission Statement 
-Focus on people, projects, programs and products that drive high tech innovations to solve business problems.  I am passionate about focusing my energy on how to get more women and people who identify as women involved in STEM.
-
+Focus on people, projects, programs and products that drive high tech innovations to solve business problems.  I am passionate about focusing my energy on how to get more women and people who identify as women involved in STEM.  The following are the focus areas for my goals for 2023 and into 2024.
 
 
 ## Impact
@@ -12,43 +11,50 @@ Focus on people, projects, programs and products that drive high tech innovation
 </ul>
 
 ## Empowerment
-<ul><li>Provide guidance, support and leadership to my team, leaders and future leaders. </li>
-<li>Build and grow a diverse and inclusive team </li>
-</ul>
+Provide guidance, support and leadership to my team, leaders and future leaders. Build and grow a diverse and inclusive team 
+
 
 ## Mentoring
-<ul><li>Share and learn from working with people to grow their career and mine with it. </li>
-<li>Help other team members or individuals grow in their career </li>
-<li>Grow my own skills by working with a mentor </li>
+Share and learn from working with people to grow their career and mine with it. 
+Help other team members or individuals grow in their career 
+Grow my own skills by working with a mentor 
+
+ 
+ <b> Mentoring Others: </b>
+ <ul>
+ <li>Mentor people outside organization (Currently 1 )
+ <li>Mentor people inside organization (Currently 2 )
+ </ul>
+
+ <b> Mentoring for Me: </b>
+ <ul>
+ <li>Find a Mentor
+ </ul>
+
+
+## Learning/Training Focus Area and Plans
+Continiousing focus on learning and implementing that learning and Increase my level of technical expertise in coding (MERN Stack) 
+
+
+<b> Technical Learning: </b>
+<ul>
+<li>Build and Deploy an MERN stack App
 </ul>
 
-## Learning/Training
-<ul><li>Continiousing focus on learning and implementing that learning </li>
-<li>Increase my level of technical expertise in coding (MERN Stack) </li>
+<b> Participation and Volunteering: </b>
+<ul><li>Become a member of Chief (Cheif.com)
+<li>Become a member of Junior League Boise (jlboise.org)
+<li>Volunteer for at least 2 events this year
 </ul>
 
-
-## Theme Based Goals
-
-| Theme | Goal | Activities to support it | Metric | 
-| ----- | ---- | ------------------------ | ------ | 
-| Impact| Provide focus and priority of work to deliver products reliably | Have I helped to reduce confusion for my team?  Have I helped focus my team this week? | Check in Weekly |
-| Impact | Provide executive leadership, staffing and strategic direction | Have I helped define a strategy from my team, organization? Have I aligned that direction with the organization and the larger business as a whole? | Check in Monthly |
-| Empowerment | Build and grow a diverse and inclusive team | Have I recognized someone’s leadership skills today? Have I improved my diversity and inclusion skills | Check In Weekly |
-| Mentoring | Help other team members or individuals grow in their career | Have I helped mentor someone this week, month? | Check in Weekly |
-| Mentoring | Grow my own skills by working with a mentor | Have I met with my mentor this month | Check in Monthly |
-| Training  | Project Management Institute Training | Training to support my PMI Project Management Certificate | Check in Monthly |
-
-
-
-
-## Training and Learning Goals:
-
+<b> Training Goals: </b>
 <ul><li>PMP Required Training for recertification (Completed Nov 23)
 <li>MBA (Completed Mar 23)
 <li>Read 10 business/tech related books this year
 <li>Read 50 other types of books 
-<li>Volunteer for at least 2 events this year
 </ul>
+
+
+
 
 
