@@ -44,7 +44,8 @@ Continiousing focus on learning and implementing that learning and Increase my l
 <b> Participation and Volunteering: </b>
 <ul><li>Become a member of Chief (Cheif.com)
 <li>Become a member of Junior League Boise (jlboise.org)
-<li>Volunteer for at least 2 events this year
+<li>Project Management Institue of Boise Volunteering 
+<li>Antib.org Membership and Volunteering
 </ul>
 
 <b> Training Goals: </b>
