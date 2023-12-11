@@ -42,10 +42,9 @@ Continiousing focus on learning and implementing that learning and Increase my l
 </ul>
 
 <b> Participation and Volunteering: </b>
-<ul><li>Become a member of Chief (Cheif.com)
-<li>Become a member of Junior League Boise (jlboise.org)
-<li>Project Management Institue of Boise Volunteering 
-<li>Antib.org Membership and Volunteering
+<ul><li>Become a member of Chief (Cheif.com) (December 2023)
+<li>Become a member of Junior League Boise (jlboise.org) (December 2023)
+<li>Project Management Institue of Boise Volunteering  (December 2023)
 </ul>
 
 <b> Training Goals: </b>
